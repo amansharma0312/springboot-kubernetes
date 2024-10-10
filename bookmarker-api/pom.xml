@@ -110,7 +110,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>sambitgulu155/bookmarker-aman-api</name>
+						<name>amansharma0312/bookmarker-api</name>
 					</image>
 					<excludes>
 						<exclude>
@@ -129,7 +129,7 @@
 						<image>eclipse-temurin:17-jre-focal</image>
 					</from>
 					<to>
-						<image>sambitgulu155/bookmarker-aman-api-jib</image>
+						<image>amansharma0312/bookmarker-api-jib</image>
 						<tags>
 							<tag>latest</tag>
 							<tag>0.0.1</tag>
